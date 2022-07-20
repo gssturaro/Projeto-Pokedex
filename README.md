@@ -1,4 +1,4 @@
-# Projeto-Pokedex
+# • Projeto-Pokedex
 
 <div align="center">
   
@@ -8,9 +8,7 @@
   
 </div>
 
-  ##
-
-## Projeto de Pokédex consumindo PokéAPI.
+## • Projeto de Pokédex consumindo PokéAPI.
 ### -> https://pokeapi.co <-
 
-## Acesse o site:
+## • Pokédex:
