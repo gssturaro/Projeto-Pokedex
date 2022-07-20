@@ -1,5 +1,4 @@
 # Projeto-Pokedex
-Projeto de Pokédex consumindo uma API.
 
 <div align="center">
   
@@ -8,3 +7,8 @@ Projeto de Pokédex consumindo uma API.
   <img height="180em" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/9.gif"/>
   
 </div>
+
+# Projeto de Pokédex consumindo PokéAPI.
+## -> https://pokeapi.co <-
+
+# Acesse o site:
