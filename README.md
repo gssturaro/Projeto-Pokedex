@@ -8,6 +8,8 @@
   
 </div>
 
+  ##
+
 ## Projeto de Pokédex consumindo PokéAPI.
 ### -> https://pokeapi.co <-
 
