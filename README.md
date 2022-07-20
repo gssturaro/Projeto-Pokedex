@@ -8,7 +8,7 @@
   
 </div>
 
-# Projeto de Pokédex consumindo PokéAPI.
-## -> https://pokeapi.co <-
+## Projeto de Pokédex consumindo PokéAPI.
+### -> https://pokeapi.co <-
 
-# Acesse o site:
+## Acesse o site:
