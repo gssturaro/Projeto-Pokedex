@@ -11,4 +11,6 @@
 ## • Projeto de Pokédex consumindo PokéAPI.
 ### -> https://pokeapi.co <-
 
-## • Pokédex:
+## • Pokédex: https://gssturaro.github.io/Projeto-Pokedex/
+
+Gabriel Santos Sturaro - 2022
